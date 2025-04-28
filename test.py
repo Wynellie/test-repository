@@ -15,5 +15,5 @@ class Solution:
                     k += 1
                 l += 1
         return res
-
+# комментарий
 print(Solution().longestOnes(nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], k = 3))
